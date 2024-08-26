@@ -2,8 +2,8 @@ fx_version 'adamant'
 
 game 'gta5'
 
-author 'Orion Store'
-description 'Orion Coords'
+author 'EmppuDEV'
+description 'Simppeli devityökalu'
 
 version '1.0'
 
